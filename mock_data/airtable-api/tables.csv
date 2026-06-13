@@ -1,0 +1,3 @@
+baseId,id,name,primaryFieldId,records_csv
+appXC2026,tblRoster,Roster,fldName,records_roster.csv
+appXC2026,tblPRs,PRs,fldAthlete,records_prs.csv

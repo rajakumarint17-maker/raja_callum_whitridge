@@ -1,0 +1,5 @@
+id,calendar_id,summary,description,location,start,end,all_day,status,creator,organizer,recurrence,visibility
+ev-ft,callum.whitridge@finthesiss.ai,7th grade field trip (Portland),Lead chaperone. Buses depart early.,Portland OR,2026-11-19T07:00:00-08:00,2026-11-19T17:00:00-08:00,false,confirmed,callum.whitridge@finthesiss.ai,callum.whitridge@finthesiss.ai,,default
+ev-run,callum.whitridge@finthesiss.ai,Long trail run,Ridgeline,Eugene OR,2026-10-04T07:30:00-07:00,2026-10-04T10:00:00-07:00,false,confirmed,callum.whitridge@finthesiss.ai,callum.whitridge@finthesiss.ai,,default
+ev-shop,callum.whitridge@finthesiss.ai,Workshop morning,Timber and Tenon,Eugene OR,2026-10-03T08:30:00-07:00,2026-10-03T12:00:00-07:00,false,confirmed,callum.whitridge@finthesiss.ai,callum.whitridge@finthesiss.ai,,default
+ev-xc,callum.whitridge@finthesiss.ai,Cross country practice,Team practice,Cedar Ridge,2026-10-05T15:15:00-07:00,2026-10-05T16:45:00-07:00,false,confirmed,callum.whitridge@finthesiss.ai,callum.whitridge@finthesiss.ai,,default

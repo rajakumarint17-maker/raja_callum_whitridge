@@ -1,0 +1,4 @@
+id,name,desc,id_board,id_list,pos,due,closed,member_ids,labels
+card-w1,Walnut side table,"Tapered legs, mortise and tenon apron",board-wood-01,list-wip,1,2026-12-05,false,callum-01,build
+card-w2,Cutting board batch,End grain maple and cherry,board-wood-01,list-queued,1,,false,callum-01,gift
+card-w3,Dovetail box,Practice through dovetails,board-wood-01,list-done,1,2026-03-10,true,callum-01,done

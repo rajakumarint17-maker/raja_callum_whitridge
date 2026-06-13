@@ -1,0 +1,14 @@
+{
+  "test_gmail_messages_read": 1,
+  "test_asana_tasks_read": 3,
+  "test_gmail_draft_created": 3,
+  "test_gmail_draft_body_trip_total": 5,
+  "test_gmail_draft_body_student_count": 3,
+  "test_gmail_draft_body_budget_remaining": 3,
+  "test_gmail_draft_body_coach_cost": 3,
+  "test_gmail_unauthorized_send": -5,
+  "test_trello_distractor": -1,
+  "test_notion_distractor": -1,
+  "test_airtable_distractor": -1,
+  "test_google_calendar_distractor": -1
+}

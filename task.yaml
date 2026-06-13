@@ -1,0 +1,7 @@
+difficulty: hard
+modalities: [text, document, image]
+l1: operations_qa
+l2: document_receipt_processing
+task_type: multimodal_reconciliation
+required_apis: [gmail, asana]
+distractor_apis: [trello, notion, airtable, google-calendar]

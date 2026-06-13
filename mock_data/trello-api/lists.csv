@@ -1,0 +1,4 @@
+id,name,id_board,pos,closed
+list-queued,Queued,board-wood-01,1,false
+list-wip,In Progress,board-wood-01,2,false
+list-done,Finished,board-wood-01,3,false

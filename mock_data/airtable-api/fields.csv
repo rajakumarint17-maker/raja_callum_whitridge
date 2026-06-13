@@ -1,0 +1,5 @@
+tableId,id,name,type
+tblRoster,fldName,Name,singleLineText
+tblRoster,fldGrade,Grade,number
+tblPRs,fldAthlete,Athlete,singleLineText
+tblPRs,fldTime,5k_Time,singleLineText
